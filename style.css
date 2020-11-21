@@ -1,6 +1,7 @@
 
 @font-face {
     font-family: 'Nunito', sans-serif;
+    src: "https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap";
 }
 
 p, div, h5, h6 {
@@ -30,18 +31,34 @@ p, div, h5, h6 {
 
 .para-top {
     margin: 0;
+    font-size: larger;
+}
+
+.para-mid {
+    font-size:larger;
 }
 
 .para-last {
-    margin-bottom: 5em;
+    margin-bottom: 4em;
+    font-size: larger;
+}
+
+.sentence-end {
+    font-size: larger;
 }
 
 .title-space {
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;
 }
 
 .container-custom{
     background-color: rgb(249,249,249);
+    padding: 35px;
+    margin-bottom: 5em;
+    color: rgb(158,111,85);
+}
+
+.container-custom2{
     padding: 35px;
     margin-bottom: 5em;
     color: rgb(158,111,85);
@@ -66,11 +83,19 @@ p, div, h5, h6 {
 }
 
 .footer {
+    margin-top: 500px;
     width: 100vw;
-    height: 150px;
+    height: 130px;
     background-color: rgb(245,242,242);
-    padding-top: 30px;
-    padding-left: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+    text-align: center;
 }
+
+.footer-text {
+    margin-top: 10px;
+}
+
+
 
 
