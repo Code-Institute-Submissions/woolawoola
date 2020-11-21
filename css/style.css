@@ -14,6 +14,10 @@ p, div, h5, h6 {
     margin-bottom: 2em;
 }
 
+.hb-align {
+    margin-right: 70px;
+}
+
 .banner {
     text-align: center;
     margin-bottom: 5em;
