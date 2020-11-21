@@ -4,9 +4,13 @@
     src: "https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap";
 }
 
-p, div, h5, h6 {
+p, div {
     font-family: 'Nunito', sans-serif;
     font-size: large;
+}
+
+h1, h2, h3, h4, h4, h6 {
+    font-family: 'Nunito', sans-serif;
 }
 
 .navbar-custom {
@@ -21,7 +25,7 @@ p, div, h5, h6 {
 
 .banner {
     text-align: center;
-    margin-bottom: 5em;
+    margin: 5em;
 }
 
 .description {
@@ -40,10 +44,6 @@ p, div, h5, h6 {
 
 .para-last {
     margin-bottom: 4em;
-    font-size: larger;
-}
-
-.sentence-end {
     font-size: larger;
 }
 
@@ -96,6 +96,10 @@ p, div, h5, h6 {
     margin-top: 10px;
 }
 
+.form {
+    width: 75vw;
+    justify-content: center;
+}
 
 
 
