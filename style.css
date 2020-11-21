@@ -25,7 +25,8 @@ h1, h2, h3, h4, h4, h6 {
 
 .banner {
     text-align: center;
-    margin: 5em;
+    margin: 5vw;
+    margin-bottom: 5em;
 }
 
 .description {
@@ -49,6 +50,15 @@ h1, h2, h3, h4, h4, h6 {
 
 .title-space {
     margin-bottom: 1.5em;
+}
+
+.container-content{
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.image-center {
+    text-align: center;
 }
 
 .container-custom{
