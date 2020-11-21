@@ -83,7 +83,7 @@ h1, h2, h3, h4, h4, h6 {
 }
 
 .footer {
-    margin-top: 500px;
+    margin-top: 200px;
     width: 100vw;
     height: 130px;
     background-color: rgb(245,242,242);
@@ -98,7 +98,8 @@ h1, h2, h3, h4, h4, h6 {
 
 .form {
     width: 75vw;
-    justify-content: center;
+    margin: auto;
+    font-family: 'Nunito', sans-serif;
 }
 
 
