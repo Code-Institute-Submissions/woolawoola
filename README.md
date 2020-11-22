@@ -60,6 +60,7 @@ In this respect, the website was built in response to these questions. Hence, th
 * To accommodate to users of mobile phones who prefer to visit websites on-the-go.
 
 # 6. Testing
+All HTML and CSS files were passed through W3C Nu HTML and Jigsaw CSS validators respectively. Files were uploaded to the validators and all errors were fixed.
 
 # 7. Deployment
 The website was deployed through Github pages.
